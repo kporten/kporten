@@ -2,4 +2,4 @@
 
 ... a software engineer from Germany with a focus on web technologies and user experience.
 
-[![skills](https://skillicons.dev/icons?i=ts,vite,nodejs,bun,react,tailwind,express,elysia,aws,cloudflare,postgres,mongodb,docker,vscode,github,gitlab&perline=4)](https://skillicons.dev)
+[![skills](https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,nextjs,vite,react,tailwind,express,hono,aws,cloudflare,postgres,mongodb,docker,vscode,github,gitlab&perline=4)](https://skillicons.dev)
